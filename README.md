@@ -28,3 +28,6 @@ Email-Spam-Classifier/
 ├── app.py
 ├── spam_ham_dataset.csv
 └── README.md
+
+## How To Run
+https://email-spam-classifier-xv6hlnjsk8atginwr5bkjt.streamlit.app/
